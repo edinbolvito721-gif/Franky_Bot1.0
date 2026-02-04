@@ -1,7 +1,7 @@
 {
-  "name": "franky-bot-v1",
+  "name": "franky-bot-inmortal",
   "version": "1.0.0",
-  "description": "Bot de WhatsApp con código de emparejamiento",
+  "description": "Bot 24/7 con persistencia en Railway",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
